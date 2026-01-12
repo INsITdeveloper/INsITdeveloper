@@ -19,7 +19,7 @@
 <a href="https://github.com/INsITdeveloper" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto: akuins90@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
 </a>
 </div>
