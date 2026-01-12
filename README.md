@@ -32,9 +32,10 @@
 <table>
 <tr>
 <td width="60%">
-<div style="padding: 3px; border-radius: 14px; background-image: url('https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif'); background-size: cover; box-shadow: 0 0 20px rgba(0,0,0,0.5);">
-    
-    <div style="padding: 20px; border-radius: 12px; background: linear-gradient(135deg, #1e1e2e 0%, #282a36 100%);">
+
+<div style="padding: 3px; border-radius: 14px; background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3); box-shadow: 0 0 10px rgba(148, 0, 211, 0.5);">
+
+    <div style="padding: 20px; border-radius: 12px; background: #1e1e2e;">
         <p style="font-size: 1.1em; color: #f8f8f2; line-height: 1.8; margin: 0;">
         💡 This GitHub account is my space to <strong style="color: #ff79c6;">express ideas through code</strong>.<br><br>
         Mostly hobby-driven, sometimes experimental, <em style="color: #bd93f9;">always practical</em>.<br><br>
@@ -43,6 +44,7 @@
     </div>
 
 </div>
+
 </td>
 </tr>
 </table>
