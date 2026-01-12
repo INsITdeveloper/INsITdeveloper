@@ -62,35 +62,32 @@
 </p>
 
 ---
+
 ## 🎧 Favorite Playlist
 
-<table align="center">
-  <tr>
-    <th>Title</th>
-    <th>Artist</th>
-    <th>Play</th>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td><b>YANK PERTAMA</b></td>
-    <td>youngcaters</td>
-    <td>
-      <audio controls preload="none">
-        <source src="https://cloudins-cdn.ins.biz.id/media/nItTq2warMGmhFClWFBxGmS6poStA8SgMp82" type="audio/mpeg">
-      </audio>
-    </td>
-  </tr>
+<!-- SONG 1 -->
+<div style="max-width:420px; padding:16px; border-radius:14px; background:#161b22; margin-bottom:16px;">
+  <b>YANK PERTAMA</b><br/>
+  <sub>youngcaters</sub>
+  <br/><br/>
+  <audio controls style="width:100%;">
+    <source src="https://cloudins-cdn.ins.biz.id/media/nItTq2warMGmhFClWFBxGmS6poStA8SgMp82" type="audio/mpeg">
+  </audio>
+</div>
 
-  <tr>
-    <td><b>Bernafaslah Sejenak</b></td>
-    <td>Nyoman Paul</td>
-    <td>
-      <audio controls preload="none">
-        <source src="https://cloudins-cdn.ins.biz.id/media/SrCSwNai7EuYxO7OxZ2xae0mczVPpugrOxFN" type="audio/mpeg">
-      </audio>
-    </td>
-  </tr>
-</table>
+<!-- SONG 2 -->
+<div style="max-width:420px; padding:16px; border-radius:14px; background:#161b22;">
+  <b>Bernafaslah Sejenak</b><br/>
+  <sub>Nyoman Paul</sub>
+  <br/><br/>
+  <audio controls style="width:100%;">
+    <source src="https://cloudins-cdn.ins.biz.id/media/SrCSwNai7EuYxO7OxZ2xae0mczVPpugrOxFN" type="audio/mpeg">
+  </audio>
+</div>
+
+</div>
 
 ---
 
