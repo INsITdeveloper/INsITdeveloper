@@ -70,7 +70,7 @@
 <!-- SONG 1 -->
 <div style="max-width:420px; padding:16px; border-radius:14px; background:#161b22; margin-bottom:16px;">
   <b>YANK PERTAMA</b><br/>
-  <sub>youngcaters</sub>
+  <sub>yungcaters</sub>
   <br/><br/>
   <audio controls style="width:100%;">
     <source src="https://cloudins-cdn.ins.biz.id/media/nItTq2warMGmhFClWFBxGmS6poStA8SgMp82" type="audio/mpeg">
