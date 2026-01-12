@@ -8,7 +8,7 @@
 
 <div align="center">
 <h1>
-👋 Hi, I'm <span style="background: linear-gradient(90deg, #ff79c6, #bd93f9); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">INsITdeveloper</span>
+<img src="https://camo.githubusercontent.com/3782f5ce9e31c105d06e1b005afd1d245745b2c70aeebc8012441c55ef4cd177/68747470733a2f2f69616d2d7765696a69652e6769746875622e696f2f776176652f68616e642d656d6f6a692e737667" width="30" alt="Waving Hand"/> Hi, I'm <span style="background: linear-gradient(90deg, #ff79c6, #bd93f9); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">INsITdeveloper</span>
 </h1>
 
 <p style="font-size: 1.2em; color: #6272a4; font-style: italic; margin-top: 8px;">
@@ -19,7 +19,7 @@
 <a href="https://github.com/INsITdeveloper" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
 </a>
-<a href="mailto: akuins90@gmail.com">
+<a href="mailto:your.email@example.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28"/>
 </a>
 </div>
@@ -161,5 +161,3 @@ Mostly hobby-driven, sometimes experimental, <em style="color: #bd93f9;">always 
 Made with 💜 by <span style="color: #ff79c6;">INsITdeveloper</span>
 </p>
 </div>
-
-<br>
