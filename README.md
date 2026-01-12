@@ -8,7 +8,7 @@
 
 <div align="center">
 <h1>
-<img src="https://camo.githubusercontent.com/3782f5ce9e31c105d06e1b005afd1d245745b2c70aeebc8012441c55ef4cd177/68747470733a2f2f69616d2d7765696a69652e6769746875622e696f2f776176652f68616e642d656d6f6a692e737667" width="43" alt="Waving Hand"/> Hi, I'm <span style="background: linear-gradient(90deg, #ff79c6, #bd93f9); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">INsITdeveloper</span>
+<img src="https://camo.githubusercontent.com/3782f5ce9e31c105d06e1b005afd1d245745b2c70aeebc8012441c55ef4cd177/68747470733a2f2f69616d2d7765696a69652e6769746875622e696f2f776176652f68616e642d656d6f6a692e737667" width="30" alt="Waving Hand"/> Hi, I'm <span style="background: linear-gradient(90deg, #ff79c6, #bd93f9); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">INsITdeveloper</span>
 </h1>
 
 <p style="font-size: 1.2em; color: #6272a4; font-style: italic; margin-top: 8px;">
@@ -32,19 +32,13 @@
 <table>
 <tr>
 <td width="60%">
-
-<div style="padding: 3px; border-radius: 14px; background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3); box-shadow: 0 0 10px rgba(148, 0, 211, 0.5);">
-
-    <div style="padding: 20px; border-radius: 12px; background: #1e1e2e;">
-        <p style="font-size: 1.1em; color: #f8f8f2; line-height: 1.8; margin: 0;">
-        💡 This GitHub account is my space to <strong style="color: #ff79c6;">express ideas through code</strong>.<br><br>
-        Mostly hobby-driven, sometimes experimental, <em style="color: #bd93f9;">always practical</em>.<br><br>
-        🎯 Stack I enjoy: <span style="color: #ffb86c;">Node.js</span>, <span style="color: #ffb86c;">JavaScript</span>, <span style="color: #ffb86c;">TypeScript</span>, <span style="color: #ffb86c;">HTML</span>, <span style="color: #ffb86c;">CSS</span>, and related tools.
-        </p>
-    </div>
-
+<div style="padding: 20px; border-radius: 12px; background: linear-gradient(135deg, #1e1e2e 0%, #282a36 100%); border: 1px solid #44475a; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+<p style="font-size: 1.1em; color: #f8f8f2; line-height: 1.8;">
+💡 This GitHub account is my space to <strong style="color: #ff79c6;">express ideas through code</strong>.<br><br>
+Mostly hobby-driven, sometimes experimental, <em style="color: #bd93f9;">always practical</em>.<br><br>
+🎯 Stack I enjoy: <span style="color: #ffb86c;">Node.js</span>, <span style="color: #ffb86c;">JavaScript</span>, <span style="color: #ffb86c;">TypeScript</span>, <span style="color: #ffb86c;">HTML</span>, <span style="color: #ffb86c;">CSS</span>, and related tools.
+</p>
 </div>
-
 </td>
 </tr>
 </table>
