@@ -62,15 +62,35 @@
 </p>
 
 ---
+## 🎧 Favorite Playlist
 
-## 🎧 Spotify Activity
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31clwo7edqwwy7heid576bz6xuue&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212"/>
-</p>
+<table align="center">
+  <tr>
+    <th>Title</th>
+    <th>Artist</th>
+    <th>Play</th>
+  </tr>
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31clwo7edqwwy7heid576bz6xuue&width=600&count=10"/>
-</p>
+  <tr>
+    <td><b>YANK PERTAMA</b></td>
+    <td>youngcaters</td>
+    <td>
+      <audio controls preload="none">
+        <source src="https://cloudins-cdn.ins.biz.id/media/nItTq2warMGmhFClWFBxGmS6poStA8SgMp82" type="audio/mpeg">
+      </audio>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Bernafaslah Sejenak</b></td>
+    <td>Nyoman Paul</td>
+    <td>
+      <audio controls preload="none">
+        <source src="https://cloudins-cdn.ins.biz.id/media/SrCSwNai7EuYxO7OxZ2xae0mczVPpugrOxFN" type="audio/mpeg">
+      </audio>
+    </td>
+  </tr>
+</table>
 
 ---
 
